@@ -1,6 +1,7 @@
 {
     "force_update": true,
-    "hmac": "a39c83d39461d7a46a46eae9184e7f1fbf9f0aa2df9685b5eb8383f78d7204eb",
+    "hmac": "d/JZV00zJpzDKz7bw1IOEJbAJa93Hm9ZXWiZizpFcbI=",
+    "min_required_version": "1.25",
     "msg": "ADSB Flight Tracker",
-    "version": "1.26"
+    "version": "1.25"
 }
