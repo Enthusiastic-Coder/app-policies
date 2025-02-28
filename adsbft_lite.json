@@ -1,6 +1,6 @@
 {
-    "force_update": true,
-    "hmac": "hC1g0yB8cawwb/99qQXxETXvKnE+BY8/GC9fO+Gi0ZA=",
-    "min_required_version": "5.25",
+    "force_update": false,
+    "hmac": "hFxo4IYI0Ngz0ytG4/um7W6kiva3C3KiHOQCcGVuH94=",
+    "min_required_version": "2250",
     "msg": "ADSB Flight Tracker Lite"
 }
