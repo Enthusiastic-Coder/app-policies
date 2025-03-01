@@ -1,6 +1,6 @@
 {
-    "force_update": true,
-    "hmac": "4X4sNoBhqB8U2RmVmpF3eH+qf20wB7UglVYSrE+7VtQ=",
+    "force_update": false,
+    "hmac": "+/LjQlmbNSrOCYyYLyl9liL2nH1IGsMFbSfrLavYumg=",
     "min_required_version": "14.0.4",
     "msg": "Testing Lite"
 }
