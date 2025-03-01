@@ -1,6 +1,6 @@
 {
-    "force_update": true,
-    "hmac": "hT/GBcq4g/uAfYqPGT+ac6rrlTTBsbjB9femyCUOO8s=",
+    "force_update": false,
+    "hmac": "EMslkq/g2xEM07NkRfMD0K6Ratzp9rTsjPSDTihY7bw=",
     "min_required_version": "38.0.40",
     "msg": "New update available, please visit google playstore"
 }
