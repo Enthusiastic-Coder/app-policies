@@ -1,6 +1,6 @@
 {
     "force_update": false,
-    "hmac": "FPUyrB6hA8QFTjqwLRdHUQxvSBuYSIOglc5xJJC9fZo=",
-    "min_required_version": "38.0.4",
-    "msg": "ADSB Flight Tracker"
+    "hmac": "txf3MbJw79GeeIVUH8wJqy46YREnYwK7QBzTgA+2v5o=",
+    "min_required_version": "38.0.5",
+    "msg": "Hello there, currently in testing"
 }
