@@ -1,6 +1,6 @@
 {
-    "force_update": false,
-    "hmac": "txf3MbJw79GeeIVUH8wJqy46YREnYwK7QBzTgA+2v5o=",
+    "force_update": true,
+    "hmac": "lBsvb1Ydkh0vLUxRRPeL03kJKa52ofnJLTzMxVC3Xcg=",
     "min_required_version": "38.0.5",
     "msg": "Hello there, currently in testing"
 }
